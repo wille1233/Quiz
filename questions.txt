@@ -1,0 +1,4 @@
+Is lamborghini a car?/Yes/Yes,No
+What is the fastest car?/Koerningseg/Koerningseg,lamborghini,ferari
+How many wheels does a car have?/4/2,3,4,6
+Is this the best quiz ever?/Yes/Yes,No
