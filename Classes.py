@@ -22,7 +22,6 @@ class Questions:
 
 
     def check_correct(self):
-        print(self.answer)
         return self.answer
 
     def print_alternative(self):

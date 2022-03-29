@@ -2,3 +2,8 @@ Is lamborghini a car?/Yes/Yes,No
 What is the fastest car?/Koerningseg/Koerningseg,lamborghini,ferari
 How many wheels does a car have?/4/2,3,4,6
 Is this the best quiz ever?/Yes/Yes,No
+What is the most famous electric car brand?/Tesla/Volvo, Tesla, Michubicu
+What is the most common car color?/White/Blue,Black,White,Red
+Which car brand is the most common?/Toyota/Volvo,Toyota,Mercedes,Saab
+What does SUV mean?/1/1) Sports Utility Vehicle, 2) Super Ulta Vehicle, 3) Suburban Utility Vehicle
+How many cylinders does an electric car have?/0/4, 6, 8, 0
